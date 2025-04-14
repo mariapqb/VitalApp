@@ -2,5 +2,5 @@ projectKey=VitalApp
 serverUrl=http://localhost:9000
 serverVersion=25.4.0.105899
 dashboardUrl=http://localhost:9000/dashboard?id=VitalApp
-ceTaskId=63efec83-8305-40ea-be2a-d2bc25acb103
-ceTaskUrl=http://localhost:9000/api/ce/task?id=63efec83-8305-40ea-be2a-d2bc25acb103
+ceTaskId=fbda79a3-fa94-4e38-bb2b-67e78d37a123
+ceTaskUrl=http://localhost:9000/api/ce/task?id=fbda79a3-fa94-4e38-bb2b-67e78d37a123
